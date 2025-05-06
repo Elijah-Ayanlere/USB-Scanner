@@ -51,7 +51,7 @@ python usb_gui.py
 On **MacOS/Linux**
 
 ```bash
-python3 usb_gui.py - MacOS/Linux
+python3 usb_gui.py
 ```
 
 ---
